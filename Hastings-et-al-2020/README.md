@@ -4,4 +4,6 @@ Hastings, R.A., Rutterford, L.A., Freer, J.J.,  Collins, R.A., Simpson, S.D., Ge
 
 ---
 
-All code and data can be accessed at [https://github.com/boopsboops/marine-abundance](https://github.com/boopsboops/marine-abundance).
+All code and data can be accessed at:\
+[https://github.com/boopsboops/marine-abundance](https://github.com/boopsboops/marine-abundance).\
+[https://doi.org/10.6084/m9.figshare.11848152.v1](https://doi.org/10.6084/m9.figshare.11848152.v1).
