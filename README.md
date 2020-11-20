@@ -1,2 +1,2 @@
 # Publications
-Links to publications and code
+Links to publication repositories
