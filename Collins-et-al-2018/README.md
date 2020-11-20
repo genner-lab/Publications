@@ -4,4 +4,6 @@ Collins, R.A., Wangensteen, O.S., O'Gorman, E.J., Mariani, S., Sims, D.W., Genne
 
 ---
 
-All code and data can be accessed at [https://github.com/boopsboops/edna-persistence](https://github.com/boopsboops/edna-persistence).
+All code and data can be accessed at:\
+[https://github.com/boopsboops/edna-persistence](https://github.com/boopsboops/edna-persistence).\
+[https://doi.org/10.6084/m9.figshare.7111376.v1](https://doi.org/10.6084/m9.figshare.7111376.v1).
